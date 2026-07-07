@@ -1,0 +1,29 @@
+{
+  "identifier": "NONCONSUMABLE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Unlock: Swap-request history export for legal records",
+          "displayName": "Custody Calendar Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "custodylog_pro",
+      "referenceName": "Custody Calendar Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
